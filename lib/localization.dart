@@ -1127,7 +1127,7 @@ class AppLocalization {
 
   String get passwordNoLongerRequiredToOpenParagraph {
     return Intl.message(
-        "You will not need a password to open the wakket anymore.",
+        "You will not need a password to open the wallet anymore.",
         desc:
             'An info paragraph that tells the user a password will no longer be needed to open Biota',
         name: 'passwordNoLongerRequiredToOpenParagraph');
